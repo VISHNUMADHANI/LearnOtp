@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "awb2jnFZ8GsPl1HWUhmeNyLnnCKoU71V5DNfgVv33tA=",
+  "Source": "Homecare_Dotnet",
+  "BasePath": "_content/Homecare_Dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
