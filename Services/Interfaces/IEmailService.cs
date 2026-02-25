@@ -1,4 +1,4 @@
-    public interface IEmailService
-    {
-        Task SendOtpAsync(string toEmail, string otp);
-    }
+public interface IEmailService
+{
+    Task<(bool IsSuccess, string ErrorMessage)> SendOtpAsync(string toEmail, string otp);
+}
